@@ -10,7 +10,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 import Foundation
  
-/* For support, please feel free to contact me at https://www.linkedin.com/in/syedabsar */
+/* For support, please feel free to contact me at https://www.linkedin.com/in/abdulnasar */
 
 public class MostViewedResults {
 	public var url : String?
